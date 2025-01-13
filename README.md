@@ -5,3 +5,4 @@
 - div
 - anchor
 - link
+![alt text](http://url/to/navbar.png)
